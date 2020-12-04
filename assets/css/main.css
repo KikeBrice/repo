@@ -3876,14 +3876,11 @@
 		}
 
 /* Banner */
-.titlebanner {
-size: 40%;	
-}
-
+ 
 	#banner {
 		padding: 8em 0 6em 0;
 		background-color: #1E2832;
-		color: rgba(255, 255, 255, 0.75);
+		color: rgba(255, 1000, 255, 0.75);
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
 		background-size: cover;
