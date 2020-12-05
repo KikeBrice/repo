@@ -3880,10 +3880,10 @@
 		background-color: #1E2832;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/banner_1.jpg");
+		background-image: url("images/overlay.png"), url("../../images/pic01.jpg");
 		background-size: cover;
 		text-align: center;
-	}
+	} 
 
 		#banner input, #banner select, #banner textarea {
 			color: #fff;
